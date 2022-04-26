@@ -19,4 +19,4 @@ explore: mukul_derived_table_testing {
 
 }
 
-#explore: stations{}
+explore: stations{}
